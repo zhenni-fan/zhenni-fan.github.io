@@ -1,8 +1,4 @@
 
----
-title: Zhenni Fan
----
-
 # Zhenni Fan
 
 Welcome to my personal academic homepage.
